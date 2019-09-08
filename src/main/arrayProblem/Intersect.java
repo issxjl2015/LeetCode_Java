@@ -24,8 +24,14 @@
  * 如果当前字符在Map中的个数大于0，则将此字符加入结果res中，然后Map的对应值自减1。
  *
  */
-/
-class Solution {
+
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+class Intersect {
     public int[] intersect(int[] nums1, int[] nums2) {
         List<Integer> tmp = new ArrayList<>();
         Map<Integer, Integer> map = new HashMap<>();

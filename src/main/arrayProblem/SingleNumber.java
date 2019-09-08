@@ -16,7 +16,7 @@
  * 输入: [4,1,2,1,2]
  * 输出: 4
  * */
-class Solution {
+class SingleNumber {
     public int singleNumber(int[] nums) {
         // int number = nums[0];
         int result = nums[0];
