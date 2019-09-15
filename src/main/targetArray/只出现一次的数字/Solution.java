@@ -1,4 +1,4 @@
-package src.main.array.只出现一次的数字;
+package targetArray.只出现一次的数字;
 
 /**
  * 只出现一次的数字

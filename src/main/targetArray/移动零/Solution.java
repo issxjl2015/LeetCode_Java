@@ -1,4 +1,4 @@
-package src.main.array.移动零;
+package targetArray.移动零;
 
 /**
  * 移动零

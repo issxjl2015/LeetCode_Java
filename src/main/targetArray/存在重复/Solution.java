@@ -1,4 +1,4 @@
-package src.main.array.存在重复;
+package targetArray.存在重复;
 
 /**
  * 存在重复

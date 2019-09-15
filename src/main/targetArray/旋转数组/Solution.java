@@ -1,4 +1,4 @@
-package src.main.array.旋转数组;
+package targetArray.旋转数组;
 
 /**
  *  旋转数组
