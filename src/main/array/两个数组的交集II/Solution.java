@@ -1,3 +1,4 @@
+package src.main.array.两个数组的交集II;
 /***
  *两个数组的交集 II
  * 给定两个数组，编写一个函数来计算它们的交集。
@@ -31,7 +32,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-class Intersect {
+class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
         List<Integer> tmp = new ArrayList<>();
         Map<Integer, Integer> map = new HashMap<>();

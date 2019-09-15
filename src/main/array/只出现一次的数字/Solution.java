@@ -1,3 +1,5 @@
+package src.main.array.只出现一次的数字;
+
 /**
  * 只出现一次的数字
  * 给定一个非空整数数组，除了某个元素只出现一次以外，其余每个元素均出现两次。
@@ -16,7 +18,7 @@
  * 输入: [4,1,2,1,2]
  * 输出: 4
  * */
-class SingleNumber {
+class Solution {
     public int singleNumber(int[] nums) {
         // int number = nums[0];
         int result = nums[0];

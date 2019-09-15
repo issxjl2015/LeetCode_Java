@@ -1,3 +1,5 @@
+package src.main.array.加一;
+
 /**
  *
  * 加一
@@ -22,9 +24,9 @@
  * ①从数组末尾往前遍历，如果加上1之后等于10，则将该位置置0，进位到下一位
  * ②如果不等于10则退出循环
  * ③循环结束后，判断首位是否为0，如果是则代表要拓展一位
- * 
+ *
  **/
-class PlusOne {
+class Solution {
     public int[] plusOne(int[] digits) {
         int i = digits.length - 1;
         while(i >= 0  && (digits[i] = digits[i]+1) == 10){

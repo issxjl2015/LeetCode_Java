@@ -1,4 +1,4 @@
-package main.arrayProblem;
+package src.main.array.从排序数组中删除重复项;
 /***
  * 运用快慢指针，初始的时候二者的位置一样，
  * 当快指针指向的内容和满指针指向的内容不一样的时候，
