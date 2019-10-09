@@ -38,8 +38,12 @@ package src.main.DataStructureBasic.doublePointerBasic.ringLinkedlistTwo;
  *
  *
  * 思路： 还是快慢指针，不过此处是使用了两次快慢指针来确定入环点
- * 第一次快慢指针，是确定是否存在环
- * 第二次快慢指针，是确定具体的入环点
+ * 思路：运用了两次快慢指针。第一次快慢指针是利用fast比slow的步伐更快，确定是否为环形链路；
+ * 第二次快慢指针是利用头结点赋值给slow2和slow进行遍历，相等处即为相应的入环点
+ *
+ * 疑惑：为啥slow2和slow相遇的点就是入环点。
+ *  参考博客：https://www.cnblogs.com/jiameng991010/p/11264456.html
+ *  参考博客：https://blog.csdn.net/mucaoyx/article/details/81395782
  * */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
