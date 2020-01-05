@@ -7,7 +7,7 @@ public class Solution {
         }
         return isSymmetric(root.left, root.right);
     }
-    
+
     private boolean isSymmetric(TreeNode n1, TreeNode n2) {
         if (n1 == null || n2 == null) {
             return n1 == n2;
