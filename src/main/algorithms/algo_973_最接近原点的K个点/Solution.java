@@ -1,5 +1,7 @@
 package main.algorithms.algo_973_最接近原点的K个点;
 
+import java.util.Arrays;
+
 public class Solution {
     public int[][] kClosest(int[][] points, int K) {
         int[] dist = new int[points.length];
