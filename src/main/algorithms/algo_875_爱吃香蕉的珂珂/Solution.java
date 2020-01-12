@@ -1,5 +1,7 @@
 package main.algorithms.algo_875_爱吃香蕉的珂珂;
 
+import java.util.Arrays;
+
 public class Solution {
     public int minEatingSpeed(int[] piles, int H) {
         Arrays.sort(piles);
