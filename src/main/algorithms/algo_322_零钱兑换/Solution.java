@@ -26,4 +26,12 @@ public class Solution {
         }
         return dp[amount];
     }
+
+    public static void main(String[] args) {
+        Solution solution = new Solution();
+        int[] coins = {1, 2, 5};
+        int amount = 11;
+        int ans = solution.coinChange(coins, amount);
+        System.out.println(ans);
+    }
 }
