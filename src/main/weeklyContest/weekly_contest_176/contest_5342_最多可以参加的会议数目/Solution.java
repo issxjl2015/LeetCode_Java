@@ -1,4 +1,4 @@
-package main.contest.weekly_contest_176.contest_5342_最多可以参加的会议数目;
+package main.weeklyContest.weekly_contest_176.contest_5342_最多可以参加的会议数目;
 
 import java.util.Arrays;
 import java.util.PriorityQueue;

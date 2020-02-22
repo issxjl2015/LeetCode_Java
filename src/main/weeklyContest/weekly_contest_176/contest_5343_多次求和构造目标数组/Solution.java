@@ -1,4 +1,4 @@
-package main.contest.weekly_contest_176.contest_5343_多次求和构造目标数组;
+package main.weeklyContest.weekly_contest_176.contest_5343_多次求和构造目标数组;
 
 import java.util.TreeMap;
 

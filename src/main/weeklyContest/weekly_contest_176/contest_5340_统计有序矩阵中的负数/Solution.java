@@ -1,4 +1,4 @@
-package main.contest.weekly_contest_176.contest_5340_统计有序矩阵中的负数;
+package main.weeklyContest.weekly_contest_176.contest_5340_统计有序矩阵中的负数;
 
 public class Solution {
     public int countNegatives(int[][] grid) {

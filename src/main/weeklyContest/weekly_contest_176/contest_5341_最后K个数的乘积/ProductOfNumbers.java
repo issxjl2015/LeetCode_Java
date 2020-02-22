@@ -1,4 +1,4 @@
-package main.contest.weekly_contest_176.contest_5341_最后K个数的乘积;
+package main.weeklyContest.weekly_contest_176.contest_5341_最后K个数的乘积;
 
 import java.util.ArrayList;
 import java.util.HashMap;

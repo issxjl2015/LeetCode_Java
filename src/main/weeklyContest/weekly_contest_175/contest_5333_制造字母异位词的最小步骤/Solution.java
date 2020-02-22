@@ -1,4 +1,4 @@
-package main.contest.weekly_contest_175.contest_5333_制造字母异位词的最小步骤;
+package main.weeklyContest.weekly_contest_175.contest_5333_制造字母异位词的最小步骤;
 
 public class Solution {
     public int minSteps(String s, String t) {

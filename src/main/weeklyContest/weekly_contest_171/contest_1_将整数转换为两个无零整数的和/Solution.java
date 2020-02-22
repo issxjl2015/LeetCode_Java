@@ -1,4 +1,4 @@
-package main.contest.weekly_contest_171.contest_1_将整数转换为两个无零整数的和;
+package main.weeklyContest.weekly_contest_171.contest_1_将整数转换为两个无零整数的和;
 
 public class Solution {
     public int[] getNoZeroIntegers(int n) {

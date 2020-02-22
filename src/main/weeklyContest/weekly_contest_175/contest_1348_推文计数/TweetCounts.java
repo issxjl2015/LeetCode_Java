@@ -1,4 +1,4 @@
-package main.contest.weekly_contest_175.contest_1348_推文计数;
+package main.weeklyContest.weekly_contest_175.contest_1348_推文计数;
 
 import java.util.ArrayList;
 import java.util.HashMap;

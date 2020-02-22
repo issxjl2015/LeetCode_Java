@@ -1,4 +1,4 @@
-package main.contest.weekly_contest_175.contest_5332_检查整数及其两倍数是否存在;
+package main.weeklyContest.weekly_contest_175.contest_5332_检查整数及其两倍数是否存在;
 
 public class Solution {
     public boolean checkIfExist(int[] arr) {
