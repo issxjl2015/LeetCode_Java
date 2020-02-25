@@ -18,6 +18,7 @@ public class Solution {
             res[i] = new ArrayList<>();
         }
         int sum = 0;
+
         // 求和
         for (int i : digits) {
             res[i % 3].add(i);
