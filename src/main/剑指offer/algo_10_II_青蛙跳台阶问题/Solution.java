@@ -15,6 +15,8 @@ public class Solution {
             first = second;
             second = nval % 1000000007;
         }
+
+
         return (int) second;
     }
 }
