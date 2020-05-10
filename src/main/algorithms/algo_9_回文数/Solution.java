@@ -1,4 +1,4 @@
-package main.algorithms.algo_9_回文数;
+package src.main.algorithms.algo_9_回文数;
 
 public class Solution {
     public boolean isPalindrome(int x) {

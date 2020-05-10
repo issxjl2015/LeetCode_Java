@@ -1,4 +1,4 @@
-package main.algorithms.algo_5_最长回文子串;
+package src.main.algorithms.algo_5_最长回文子串;
 
 public class Solution {
     public String longestPalindrome(String s) {

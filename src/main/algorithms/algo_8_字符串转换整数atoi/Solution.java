@@ -1,4 +1,4 @@
-package main.algorithms.algo_8_字符串转换整数atoi;
+package src.main.algorithms.algo_8_字符串转换整数atoi;
 
 public class Solution {
     public int myAtoi(String str) {

@@ -1,4 +1,4 @@
-package main.algorithms.algo_14_最长公共前缀;
+package src.main.algorithms.algo_14_最长公共前缀;
 
 /**
  * 最长公共前缀——最长，公共，前缀

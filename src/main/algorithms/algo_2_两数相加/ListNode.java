@@ -1,4 +1,4 @@
-package main.algorithms.algo_2_两数相加;
+package src.main.algorithms.algo_2_两数相加;
 
 public class ListNode {
     int val;

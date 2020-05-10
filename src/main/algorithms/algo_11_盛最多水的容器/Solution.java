@@ -1,4 +1,4 @@
-package main.algorithms.algo_11_盛最多水的容器;
+package src.main.algorithms.algo_11_盛最多水的容器;
 
 public class Solution {
     public int maxArea(int[] height) {

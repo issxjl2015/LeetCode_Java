@@ -1,4 +1,4 @@
-package main.algorithms.algo_6_Z字形变换;
+package src.main.algorithms.algo_6_Z字形变换;
 
 import java.util.ArrayList;
 import java.util.List;
