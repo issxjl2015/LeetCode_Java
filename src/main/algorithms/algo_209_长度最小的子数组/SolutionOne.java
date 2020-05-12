@@ -1,5 +1,8 @@
 package src.main.algorithms.algo_209_长度最小的子数组;
 
+/**
+ * 核心思想：把所有可能的子数组求和并更新 ans, 直到找到最优子数组 且 和满足 sum >= s
+ */
 public class SolutionOne {
     public int minSubArrayLen(int s, int[] nums) {
         int ans = Integer.MAX_VALUE;
