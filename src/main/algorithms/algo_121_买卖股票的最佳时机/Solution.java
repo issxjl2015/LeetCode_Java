@@ -1,4 +1,4 @@
-package main.algorithms.algo_121_买卖股票的最佳时机;
+package algorithms.algo_121_买卖股票的最佳时机;
 
 public class Solution {
     public int maxProfit(int[] prices) {
