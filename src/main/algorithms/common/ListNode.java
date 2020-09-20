@@ -1,4 +1,4 @@
-package main.algorithms.common;
+package algorithms.common;
 
 public class ListNode {
     int val;
